@@ -1,0 +1,93 @@
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Videos (large files)
+*.mp4
+*.avi
+*.mkv
+*.mov
+*.wmv
+*.flv
+*.webm
+
+# Audio files
+*.mp3
+*.wav
+*.flac
+*.aac
+
+# Config files with sensitive data
+config.txt
+*.env
+
+# UV specific
+uv.lock
+.python-version
+
+# Backup files
+*.backup
+requirements.txt.backup
+
+# Old virtual environments (cleaned up)
+video_slice_env/
+video_srt_env/
+
+# Google Cloud credentials and sensitive files
+*.json
+**/video-ai-*.json
+**/*-credentials.json
+**/*-service-account.json video_to_slice/cache/
+slice_to_label/cache/
+*.log
+__pycache__/
+*.pyc

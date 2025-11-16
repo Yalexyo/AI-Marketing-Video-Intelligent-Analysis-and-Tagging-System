@@ -1,0 +1,54 @@
+[project]
+name = "video-to-mp4"
+version = "0.1.0"
+description = "Batch video format converter to MP4 with multiple format support"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "python-dotenv>=1.0.0",
+    "ffmpeg-python>=0.2.0",
+    "tqdm>=4.65.0",
+    "colorama>=0.4.6",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0.0",
+    "black>=23.0.0",
+    "isort>=5.12.0",
+    "flake8>=6.0.0",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["."]
+exclude = [
+    "data/",
+    "logs/",
+    "cache/",
+    "tests/",
+    "*.txt",
+    "__pycache__",
+    "*.log",
+]
+
+[tool.uv]
+dev-dependencies = [
+    "pytest>=7.0.0",
+    "black>=23.0.0", 
+    "isort>=5.12.0",
+    "flake8>=6.0.0",
+]
+
+[tool.black]
+line-length = 88
+target-version = ['py310']
+
+[tool.isort]
+profile = "black"
+
+[project.scripts]
+video-to-mp4 = "run:main" 

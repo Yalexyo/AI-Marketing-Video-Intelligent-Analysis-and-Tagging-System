@@ -1,0 +1,65 @@
+🎬 视频切片文件移动日志 - Sat Jul 12 11:16:18 CST 2025
+✅ 启赋 纯净版_semantic_seg_1_镜头1.mp4 -> 🎬Slice/启赋 纯净版_31/slices/启赋 纯净版_semantic_seg_1_镜头1.mp4
+✅ 启赋 纯净版_semantic_seg_10_镜头10.mp4 -> 🎬Slice/启赋 纯净版_31/slices/启赋 纯净版_semantic_seg_10_镜头10.mp4
+✅ 启赋 纯净版_semantic_seg_11_镜头11.mp4 -> 🎬Slice/启赋 纯净版_31/slices/启赋 纯净版_semantic_seg_11_镜头11.mp4
+✅ 启赋 纯净版_semantic_seg_12_镜头12.mp4 -> 🎬Slice/启赋 纯净版_31/slices/启赋 纯净版_semantic_seg_12_镜头12.mp4
+✅ 启赋 纯净版_semantic_seg_13_镜头13.mp4 -> 🎬Slice/启赋 纯净版_31/slices/启赋 纯净版_semantic_seg_13_镜头13.mp4
+✅ 启赋 纯净版_semantic_seg_14_镜头14.mp4 -> 🎬Slice/启赋 纯净版_31/slices/启赋 纯净版_semantic_seg_14_镜头14.mp4
+✅ 启赋 纯净版_semantic_seg_15_镜头15.mp4 -> 🎬Slice/启赋 纯净版_31/slices/启赋 纯净版_semantic_seg_15_镜头15.mp4
+✅ 启赋 纯净版_semantic_seg_16_镜头16.mp4 -> 🎬Slice/启赋 纯净版_31/slices/启赋 纯净版_semantic_seg_16_镜头16.mp4
+✅ 启赋 纯净版_semantic_seg_17_镜头17.mp4 -> 🎬Slice/启赋 纯净版_31/slices/启赋 纯净版_semantic_seg_17_镜头17.mp4
+✅ 启赋 纯净版_semantic_seg_18_镜头18.mp4 -> 🎬Slice/启赋 纯净版_31/slices/启赋 纯净版_semantic_seg_18_镜头18.mp4
+✅ 启赋 纯净版_semantic_seg_19_镜头19.mp4 -> 🎬Slice/启赋 纯净版_31/slices/启赋 纯净版_semantic_seg_19_镜头19.mp4
+✅ 启赋 纯净版_semantic_seg_2_镜头2.mp4 -> 🎬Slice/启赋 纯净版_31/slices/启赋 纯净版_semantic_seg_2_镜头2.mp4
+✅ 启赋 纯净版_semantic_seg_20_镜头20.mp4 -> 🎬Slice/启赋 纯净版_31/slices/启赋 纯净版_semantic_seg_20_镜头20.mp4
+✅ 启赋 纯净版_semantic_seg_3_镜头3.mp4 -> 🎬Slice/启赋 纯净版_31/slices/启赋 纯净版_semantic_seg_3_镜头3.mp4
+✅ 启赋 纯净版_semantic_seg_4_镜头4.mp4 -> 🎬Slice/启赋 纯净版_31/slices/启赋 纯净版_semantic_seg_4_镜头4.mp4
+✅ 启赋 纯净版_semantic_seg_5_镜头5.mp4 -> 🎬Slice/启赋 纯净版_31/slices/启赋 纯净版_semantic_seg_5_镜头5.mp4
+✅ 启赋 纯净版_semantic_seg_6_镜头6.mp4 -> 🎬Slice/启赋 纯净版_31/slices/启赋 纯净版_semantic_seg_6_镜头6.mp4
+✅ 启赋 纯净版_semantic_seg_7_镜头7.mp4 -> 🎬Slice/启赋 纯净版_31/slices/启赋 纯净版_semantic_seg_7_镜头7.mp4
+✅ 启赋 纯净版_semantic_seg_8_镜头8.mp4 -> 🎬Slice/启赋 纯净版_31/slices/启赋 纯净版_semantic_seg_8_镜头8.mp4
+✅ 启赋 纯净版_semantic_seg_9_镜头9.mp4 -> 🎬Slice/启赋 纯净版_31/slices/启赋 纯净版_semantic_seg_9_镜头9.mp4
+✅ 纯净版 广-Evi泡芙妈咪 启赋奶粉_semantic_seg_1_镜头1.mp4 -> 🎬Slice/纯净版 广-Evi泡芙妈咪 启赋奶粉_10/slices/纯净版 广-Evi泡芙妈咪 启赋奶粉_semantic_seg_1_镜头1.mp4
+✅ 纯净版 广-Evi泡芙妈咪 启赋奶粉_semantic_seg_10_镜头10.mp4 -> 🎬Slice/纯净版 广-Evi泡芙妈咪 启赋奶粉_10/slices/纯净版 广-Evi泡芙妈咪 启赋奶粉_semantic_seg_10_镜头10.mp4
+✅ 纯净版 广-Evi泡芙妈咪 启赋奶粉_semantic_seg_11_镜头11.mp4 -> 🎬Slice/纯净版 广-Evi泡芙妈咪 启赋奶粉_10/slices/纯净版 广-Evi泡芙妈咪 启赋奶粉_semantic_seg_11_镜头11.mp4
+✅ 纯净版 广-Evi泡芙妈咪 启赋奶粉_semantic_seg_12_镜头12.mp4 -> 🎬Slice/纯净版 广-Evi泡芙妈咪 启赋奶粉_10/slices/纯净版 广-Evi泡芙妈咪 启赋奶粉_semantic_seg_12_镜头12.mp4
+✅ 纯净版 广-Evi泡芙妈咪 启赋奶粉_semantic_seg_2_镜头2.mp4 -> 🎬Slice/纯净版 广-Evi泡芙妈咪 启赋奶粉_10/slices/纯净版 广-Evi泡芙妈咪 启赋奶粉_semantic_seg_2_镜头2.mp4
+✅ 纯净版 广-Evi泡芙妈咪 启赋奶粉_semantic_seg_3_镜头3.mp4 -> 🎬Slice/纯净版 广-Evi泡芙妈咪 启赋奶粉_10/slices/纯净版 广-Evi泡芙妈咪 启赋奶粉_semantic_seg_3_镜头3.mp4
+✅ 纯净版 广-Evi泡芙妈咪 启赋奶粉_semantic_seg_4_镜头4.mp4 -> 🎬Slice/纯净版 广-Evi泡芙妈咪 启赋奶粉_10/slices/纯净版 广-Evi泡芙妈咪 启赋奶粉_semantic_seg_4_镜头4.mp4
+✅ 纯净版 广-Evi泡芙妈咪 启赋奶粉_semantic_seg_5_镜头5.mp4 -> 🎬Slice/纯净版 广-Evi泡芙妈咪 启赋奶粉_10/slices/纯净版 广-Evi泡芙妈咪 启赋奶粉_semantic_seg_5_镜头5.mp4
+✅ 纯净版 广-Evi泡芙妈咪 启赋奶粉_semantic_seg_6_镜头6.mp4 -> 🎬Slice/纯净版 广-Evi泡芙妈咪 启赋奶粉_10/slices/纯净版 广-Evi泡芙妈咪 启赋奶粉_semantic_seg_6_镜头6.mp4
+✅ 纯净版 广-Evi泡芙妈咪 启赋奶粉_semantic_seg_7_镜头7.mp4 -> 🎬Slice/纯净版 广-Evi泡芙妈咪 启赋奶粉_10/slices/纯净版 广-Evi泡芙妈咪 启赋奶粉_semantic_seg_7_镜头7.mp4
+✅ 纯净版 广-Evi泡芙妈咪 启赋奶粉_semantic_seg_8_镜头8.mp4 -> 🎬Slice/纯净版 广-Evi泡芙妈咪 启赋奶粉_10/slices/纯净版 广-Evi泡芙妈咪 启赋奶粉_semantic_seg_8_镜头8.mp4
+✅ 纯净版 广-Evi泡芙妈咪 启赋奶粉_semantic_seg_9_镜头9.mp4 -> 🎬Slice/纯净版 广-Evi泡芙妈咪 启赋奶粉_10/slices/纯净版 广-Evi泡芙妈咪 启赋奶粉_semantic_seg_9_镜头9.mp4
+✅ 纯净版最终版16-广H25040830038 冠军奶爸陈康 (抖音) 启赋奶粉-_semantic_seg_1_镜头1.mp4 -> 🎬Slice/纯净版最终版16-广H25040830038 冠军奶爸陈康 (抖音) 启赋奶粉-_80/slices/纯净版最终版16-广H25040830038 冠军奶爸陈康 (抖音) 启赋奶粉-_semantic_seg_1_镜头1.mp4
+✅ 纯净版最终版16-广H25040830038 冠军奶爸陈康 (抖音) 启赋奶粉-_semantic_seg_2_镜头2.mp4 -> 🎬Slice/纯净版最终版16-广H25040830038 冠军奶爸陈康 (抖音) 启赋奶粉-_80/slices/纯净版最终版16-广H25040830038 冠军奶爸陈康 (抖音) 启赋奶粉-_semantic_seg_2_镜头2.mp4
+✅ 纯净版最终版16-广H25040830038 冠军奶爸陈康 (抖音) 启赋奶粉-_semantic_seg_3_镜头3.mp4 -> 🎬Slice/纯净版最终版16-广H25040830038 冠军奶爸陈康 (抖音) 启赋奶粉-_80/slices/纯净版最终版16-广H25040830038 冠军奶爸陈康 (抖音) 启赋奶粉-_semantic_seg_3_镜头3.mp4
+✅ 纯净版最终版16-广H25040830038 冠军奶爸陈康 (抖音) 启赋奶粉-_semantic_seg_4_镜头4.mp4 -> 🎬Slice/纯净版最终版16-广H25040830038 冠军奶爸陈康 (抖音) 启赋奶粉-_80/slices/纯净版最终版16-广H25040830038 冠军奶爸陈康 (抖音) 启赋奶粉-_semantic_seg_4_镜头4.mp4
+✅ 纯净版最终版16-广H25040830038 冠军奶爸陈康 (抖音) 启赋奶粉-_semantic_seg_5_镜头5.mp4 -> 🎬Slice/纯净版最终版16-广H25040830038 冠军奶爸陈康 (抖音) 启赋奶粉-_80/slices/纯净版最终版16-广H25040830038 冠军奶爸陈康 (抖音) 启赋奶粉-_semantic_seg_5_镜头5.mp4
+✅ 纯净版最终版16-广H25040830038 冠军奶爸陈康 (抖音) 启赋奶粉-_semantic_seg_6_镜头6.mp4 -> 🎬Slice/纯净版最终版16-广H25040830038 冠军奶爸陈康 (抖音) 启赋奶粉-_80/slices/纯净版最终版16-广H25040830038 冠军奶爸陈康 (抖音) 启赋奶粉-_semantic_seg_6_镜头6.mp4
+✅ 纯净版最终版16-广H25040830038 冠军奶爸陈康 (抖音) 启赋奶粉-_semantic_seg_7_镜头7.mp4 -> 🎬Slice/纯净版最终版16-广H25040830038 冠军奶爸陈康 (抖音) 启赋奶粉-_80/slices/纯净版最终版16-广H25040830038 冠军奶爸陈康 (抖音) 启赋奶粉-_semantic_seg_7_镜头7.mp4
+✅ 纯净版最终版16-广H25040830038 冠军奶爸陈康 (抖音) 启赋奶粉-_semantic_seg_8_镜头8.mp4 -> 🎬Slice/纯净版最终版16-广H25040830038 冠军奶爸陈康 (抖音) 启赋奶粉-_80/slices/纯净版最终版16-广H25040830038 冠军奶爸陈康 (抖音) 启赋奶粉-_semantic_seg_8_镜头8.mp4
+✅ 纯净版最终版16-广H25040830038 冠军奶爸陈康 (抖音) 启赋奶粉-_semantic_seg_9_镜头9.mp4 -> 🎬Slice/纯净版最终版16-广H25040830038 冠军奶爸陈康 (抖音) 启赋奶粉-_80/slices/纯净版最终版16-广H25040830038 冠军奶爸陈康 (抖音) 启赋奶粉-_semantic_seg_9_镜头9.mp4
+✅ 4.3蕴淳 【纯净版】_semantic_seg_1_镜头1.mp4 -> 🎬Slice/4.3蕴淳 【纯净版】_92/slices/4.3蕴淳 【纯净版】_semantic_seg_1_镜头1.mp4
+✅ 4.3蕴淳 【纯净版】_semantic_seg_10_镜头10.mp4 -> 🎬Slice/4.3蕴淳 【纯净版】_92/slices/4.3蕴淳 【纯净版】_semantic_seg_10_镜头10.mp4
+✅ 4.3蕴淳 【纯净版】_semantic_seg_11_镜头11.mp4 -> 🎬Slice/4.3蕴淳 【纯净版】_92/slices/4.3蕴淳 【纯净版】_semantic_seg_11_镜头11.mp4
+✅ 4.3蕴淳 【纯净版】_semantic_seg_12_镜头12.mp4 -> 🎬Slice/4.3蕴淳 【纯净版】_92/slices/4.3蕴淳 【纯净版】_semantic_seg_12_镜头12.mp4
+✅ 4.3蕴淳 【纯净版】_semantic_seg_13_镜头13.mp4 -> 🎬Slice/4.3蕴淳 【纯净版】_92/slices/4.3蕴淳 【纯净版】_semantic_seg_13_镜头13.mp4
+✅ 4.3蕴淳 【纯净版】_semantic_seg_14_镜头14.mp4 -> 🎬Slice/4.3蕴淳 【纯净版】_92/slices/4.3蕴淳 【纯净版】_semantic_seg_14_镜头14.mp4
+✅ 4.3蕴淳 【纯净版】_semantic_seg_15_镜头15.mp4 -> 🎬Slice/4.3蕴淳 【纯净版】_92/slices/4.3蕴淳 【纯净版】_semantic_seg_15_镜头15.mp4
+✅ 4.3蕴淳 【纯净版】_semantic_seg_16_镜头16.mp4 -> 🎬Slice/4.3蕴淳 【纯净版】_92/slices/4.3蕴淳 【纯净版】_semantic_seg_16_镜头16.mp4
+✅ 4.3蕴淳 【纯净版】_semantic_seg_17_镜头17.mp4 -> 🎬Slice/4.3蕴淳 【纯净版】_92/slices/4.3蕴淳 【纯净版】_semantic_seg_17_镜头17.mp4
+✅ 4.3蕴淳 【纯净版】_semantic_seg_2_镜头2.mp4 -> 🎬Slice/4.3蕴淳 【纯净版】_92/slices/4.3蕴淳 【纯净版】_semantic_seg_2_镜头2.mp4
+✅ 4.3蕴淳 【纯净版】_semantic_seg_3_镜头3.mp4 -> 🎬Slice/4.3蕴淳 【纯净版】_92/slices/4.3蕴淳 【纯净版】_semantic_seg_3_镜头3.mp4
+✅ 4.3蕴淳 【纯净版】_semantic_seg_4_镜头4.mp4 -> 🎬Slice/4.3蕴淳 【纯净版】_92/slices/4.3蕴淳 【纯净版】_semantic_seg_4_镜头4.mp4
+✅ 4.3蕴淳 【纯净版】_semantic_seg_5_镜头5.mp4 -> 🎬Slice/4.3蕴淳 【纯净版】_92/slices/4.3蕴淳 【纯净版】_semantic_seg_5_镜头5.mp4
+✅ 4.3蕴淳 【纯净版】_semantic_seg_6_镜头6.mp4 -> 🎬Slice/4.3蕴淳 【纯净版】_92/slices/4.3蕴淳 【纯净版】_semantic_seg_6_镜头6.mp4
+✅ 4.3蕴淳 【纯净版】_semantic_seg_7_镜头7.mp4 -> 🎬Slice/4.3蕴淳 【纯净版】_92/slices/4.3蕴淳 【纯净版】_semantic_seg_7_镜头7.mp4
+✅ 4.3蕴淳 【纯净版】_semantic_seg_8_镜头8.mp4 -> 🎬Slice/4.3蕴淳 【纯净版】_92/slices/4.3蕴淳 【纯净版】_semantic_seg_8_镜头8.mp4
+✅ 4.3蕴淳 【纯净版】_semantic_seg_9_镜头9.mp4 -> 🎬Slice/4.3蕴淳 【纯净版】_92/slices/4.3蕴淳 【纯净版】_semantic_seg_9_镜头9.mp4
+✅ 5月惠氏启赋 -无字幕_semantic_seg_1_镜头1.mp4 -> 🎬Slice/5月惠氏启赋 -无字幕_104/slices/5月惠氏启赋 -无字幕_semantic_seg_1_镜头1.mp4
+✅ 5月惠氏启赋 -无字幕_semantic_seg_2_镜头2.mp4 -> 🎬Slice/5月惠氏启赋 -无字幕_104/slices/5月惠氏启赋 -无字幕_semantic_seg_2_镜头2.mp4
+✅ 5月惠氏启赋 -无字幕_semantic_seg_3_镜头3.mp4 -> 🎬Slice/5月惠氏启赋 -无字幕_104/slices/5月惠氏启赋 -无字幕_semantic_seg_3_镜头3.mp4
+✅ 5月惠氏启赋 -无字幕_semantic_seg_4_镜头4.mp4 -> 🎬Slice/5月惠氏启赋 -无字幕_104/slices/5月惠氏启赋 -无字幕_semantic_seg_4_镜头4.mp4
+✅ 5月惠氏启赋 -无字幕_semantic_seg_5_镜头5.mp4 -> 🎬Slice/5月惠氏启赋 -无字幕_104/slices/5月惠氏启赋 -无字幕_semantic_seg_5_镜头5.mp4
+✅ 5月惠氏启赋 -无字幕_semantic_seg_6_镜头6.mp4 -> 🎬Slice/5月惠氏启赋 -无字幕_104/slices/5月惠氏启赋 -无字幕_semantic_seg_6_镜头6.mp4

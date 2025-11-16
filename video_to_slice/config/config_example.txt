@@ -1,0 +1,58 @@
+# Google Cloud Video Intelligence API 配置示例
+# 复制此文件并根据您的配置进行修改
+
+# ========================================
+# 环境变量配置
+# ========================================
+
+# Google Cloud凭据文件路径
+# 设置方法1: 环境变量 (推荐)
+export GOOGLE_APPLICATION_CREDENTIALS="/path/to/your/service-account-key.json"
+
+# 设置方法2: 直接放置文件
+# 将凭据文件重命名为 google_credentials.json 并放在工具目录下
+
+# ========================================
+# 项目信息
+# ========================================
+
+# 您的Google Cloud项目ID
+PROJECT_ID="your-project-id"
+
+# Cloud Storage存储桶名称 (可选，用于大文件处理)
+BUCKET_NAME="your-bucket-name"
+
+# ========================================
+# 服务账号权限要求
+# ========================================
+
+# 确保您的服务账号具有以下角色:
+# - Video Intelligence API User
+# - Storage Object Admin (如果使用Cloud Storage)
+
+# ========================================
+# API配额和限制
+# ========================================
+
+# Video Intelligence API限制:
+# - 每分钟最多处理10小时的视频内容
+# - 单个视频文件最大2GB
+# - 支持的视频格式: MP4, AVI, MOV, MKV, FLV, WebM等
+
+# ========================================
+# 成本控制建议
+# ========================================
+
+# 1. 仅使用必要的分析功能
+# 2. 对于测试，使用较短的视频文件
+# 3. 设置预算警报：https://cloud.google.com/billing/docs/how-to/budgets
+# 4. 监控API使用量：https://console.cloud.google.com/apis/dashboard
+
+# ========================================
+# 故障排除
+# ========================================
+
+# 测试配置是否正确:
+# 1. 检查凭据文件: gcloud auth application-default print-access-token
+# 2. 验证API启用: gcloud services list --enabled --filter="videointelligence"
+# 3. 测试权限: gcloud projects get-iam-policy PROJECT_ID 

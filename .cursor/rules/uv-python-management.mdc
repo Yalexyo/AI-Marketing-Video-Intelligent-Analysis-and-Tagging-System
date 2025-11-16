@@ -1,0 +1,58 @@
+---
+alwaysApply: true
+---
+# UV Python Project Management Rule
+
+## 项目管理工具
+本项目使用 **UV** 作为 Python 项目管理工具，请始终遵循以下规则：
+
+## 环境管理
+- **创建环境**: 使用 `uv venv` 而不是 `python -m venv`
+- **激活环境**: 使用 `source .venv/bin/activate` (macOS/Linux) 或 `.venv\Scripts\activate` (Windows)
+- **安装依赖**: 使用 `uv pip install` 而不是 `pip install`
+- **同步依赖**: 使用 `uv pip sync requirements.txt` 进行精确同步
+
+## 项目结构
+项目包含两个独立的UV环境：
+- [video_to_slice/pyproject.toml](mdc:video_to_slice/pyproject.toml) - 视频切片模块
+- [video_to_srt/pyproject.toml](mdc:video_to_srt/pyproject.toml) - 视频转字幕模块
+
+## 依赖管理
+- **添加依赖**: 使用 `uv add package_name` 而不是手动编辑 requirements.txt
+- **移除依赖**: 使用 `uv remove package_name`
+- **锁定依赖**: UV 自动管理 `uv.lock` 文件
+- **导出依赖**: 使用 `uv pip freeze > requirements.txt` 如需兼容性
+
+## 脚本执行
+- **运行脚本**: 使用 `uv run python script.py` 确保在正确环境中执行
+- **安装本地包**: 使用 `uv pip install -e .` 进行可编辑安装
+
+## 环境激活脚本
+使用项目根目录的 [activate_envs.sh](mdc:activate_envs.sh) 脚本：
+```bash
+# 激活video_to_slice环境
+source activate_envs.sh video_to_slice
+
+# 激活video_to_srt环境  
+source activate_envs.sh video_to_srt
+```
+
+## 禁止使用的命令
+❌ **不要使用**:
+- `pip install` (使用 `uv pip install` 代替)
+- `python -m venv` (使用 `uv venv` 代替)
+- `conda` 相关命令
+- 直接编辑 requirements.txt (使用 `uv add/remove` 代替)
+
+## 新项目初始化
+创建新的Python项目时：
+```bash
+uv init project_name
+cd project_name
+uv add dependency_name
+```
+
+## 版本要求
+- Python 3.10+ (在 pyproject.toml 中指定)
+- UV 最新版本
+- 所有依赖版本通过 UV 管理，确保可重现构建

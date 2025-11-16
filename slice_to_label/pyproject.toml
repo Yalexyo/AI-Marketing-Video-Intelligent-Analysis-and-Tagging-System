@@ -1,0 +1,62 @@
+[project]
+name = "slice-to-label"
+version = "0.1.0"
+description = "AI-powered video slice labeling tool with dual-stage analysis mechanism"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "python-dotenv>=1.0.0",
+    "requests>=2.31.0",
+    "pillow>=10.0.0",
+    "google-genai>=0.1.0", # 支持新版Google Gen AI SDK
+    "argparse",
+    "pathlib",
+    "typing",
+    "google-generativeai>=0.8.5",
+    "numpy>=1.24.0,<2.0.0", # 兼容Python 3.13
+    "opencv-python>=4.8.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0.0",
+    "black>=23.0.0",
+    "isort>=5.12.0",
+    "flake8>=6.0.0",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["."]
+exclude = [
+    "data/",
+    "results/",
+    "cache/",
+    "temp/", 
+    "logs/",
+    "tests/",
+    "*.txt",
+    "__pycache__",
+    "*.log",
+]
+
+[tool.uv]
+dev-dependencies = [
+    "pytest>=7.0.0",
+    "black>=23.0.0", 
+    "isort>=5.12.0",
+    "flake8>=6.0.0",
+]
+
+[tool.black]
+line-length = 88
+target-version = ['py310']
+
+[tool.isort]
+profile = "black"
+
+[project.scripts]
+slice-to-label = "batch_slice_to_label:main" 

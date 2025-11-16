@@ -1,0 +1,30 @@
+# 批量视频转录为SRT - 环境变量配置示例
+# 将以下内容添加到你的环境变量中，或创建 .env 文件
+
+# ========== 必需配置 ==========
+# 阿里云DashScope API密钥 (必需)
+DASHSCOPE_API_KEY=your_dashscope_api_key_here
+
+# ========== 可选配置 (OSS云存储) ==========
+# 阿里云OSS配置 (可选，用于提高大文件处理效率)
+OSS_ACCESS_KEY_ID=your_access_key_id
+OSS_ACCESS_KEY_SECRET=your_access_key_secret
+OSS_ENDPOINT=https://oss-cn-hangzhou.aliyuncs.com
+OSS_BUCKET_NAME=your_bucket_name
+
+# ========== 说明 ==========
+# 1. DASHSCOPE_API_KEY 是必需的，用于调用阿里云语音转录服务
+# 2. OSS配置是可选的，主要用于上传大音频文件到云端处理
+# 3. 如果不配置OSS，程序会尝试使用备用方案
+# 4. 获取API密钥: https://dashscope.console.aliyun.com/
+
+# ========== 使用方法 ==========
+# 方法1: 直接设置环境变量 (推荐)
+# export DASHSCOPE_API_KEY=your_api_key
+
+# 方法2: 创建 .env 文件
+# cp config_example.txt .env
+# 然后编辑 .env 文件，填入真实的API密钥
+
+# 方法3: 命令行参数
+# python batch_video_to_srt.py --api_key your_api_key 

@@ -1,0 +1,30 @@
+# Script Digest 环境变量配置
+# 复制此文件为 env_config.txt 并填入真实的API密钥
+
+# DeepSeek API 配置
+DEEPSEEK_API_KEY=your_deepseek_api_key_here
+DEEPSEEK_BASE_URL=https://api.deepseek.com/v1
+
+# 备用AI模型配置（可选）
+DASHSCOPE_API_KEY=your_dashscope_api_key_here
+GOOGLE_AI_API_KEY=your_google_ai_api_key_here
+
+# 输入输出路径配置
+INPUT_JSON_DIR=../🍭Origin
+INPUT_VIDEO_DIR=../🎬Slice
+OUTPUT_BASE_DIR=data/output
+
+# 匹配参数配置
+MIN_SIMILARITY_SCORE=0.3
+MAX_MATCHES_PER_SEGMENT=5
+ENABLE_FUZZY_MATCHING=true
+
+# 日志配置
+LOG_LEVEL=INFO
+LOG_TO_FILE=true
+LOG_MAX_SIZE=10MB
+
+# 文件处理配置
+SUPPORTED_VIDEO_FORMATS=mp4,avi,mov,mkv
+COPY_MODE=copy  # copy 或 symlink
+ENABLE_BACKUP=true 

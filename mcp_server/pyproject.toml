@@ -1,0 +1,78 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ai-video-master-mcp"
+version = "1.0.0"
+description = "AI Video Master MCP Server - 视频处理工具链的统一MCP接口"
+authors = [
+    {name = "AI Video Master", email = "developer@example.com"}
+]
+readme = "README.md"
+requires-python = ">=3.10"
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+]
+
+# MCP服务器依赖 - 使用官方 MCP SDK
+dependencies = [
+    "mcp[cli]>=1.0.0",
+    "pydantic>=2.0.0",
+    "typing-extensions>=4.0.0",
+]
+
+# 开发依赖
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0.0",
+    "pytest-asyncio>=0.21.0",
+    "black>=23.0.0",
+    "isort>=5.0.0",
+    "mypy>=1.0.0",
+]
+
+# 项目URLs
+[project.urls]
+Homepage = "https://github.com/your-org/ai-video-master-mcp"
+Repository = "https://github.com/your-org/ai-video-master-mcp"
+Issues = "https://github.com/your-org/ai-video-master-mcp/issues"
+
+# 入口点配置
+[project.scripts]
+ai-video-master-mcp = "server:main"
+
+# setuptools配置
+[tool.setuptools]
+py-modules = ["server"]
+
+# 黑色代码格式化
+[tool.black]
+line-length = 88
+target-version = ['py310']
+include = '\.pyi?$'
+
+# isort导入排序
+[tool.isort]
+profile = "black"
+multi_line_output = 3
+line_length = 88
+
+# mypy类型检查
+[tool.mypy]
+python_version = "3.10"
+warn_return_any = true
+warn_unused_configs = true
+ignore_missing_imports = true
+
+# pytest配置
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+asyncio_mode = "auto"
+addopts = "-v --tb=short" 

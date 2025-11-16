@@ -1,0 +1,15 @@
+🔄 恢复♻️前缀文件日志 - Sat Jul 12 11:48:31 CST 2025
+FAILED: ♻️广告H25031078039-雀巢奶粉-锦鲤的十安宝宝-成片纯净版_123_semantic_seg_1_片段1.mp4 - 无法解析文件名
+FAILED: ♻️广告H25031078039-雀巢奶粉-锦鲤的十安宝宝-成片纯净版_124_semantic_seg_1_片段1.mp4 - 无法解析文件名
+FAILED: ♻️5月13日(纯净版_117_semantic_seg_1_片段1.mp4 - 无法解析文件名
+FAILED: ♻️5-11启赋纯净版_112_semantic_seg_1_片段1.mp4 - 无法解析文件名
+FAILED: ♻️雀巢唯唯-纯净版_43_semantic_seg_1_镜头1.mp4 - 无法解析文件名
+FAILED: ♻️水奶纯净版_63_semantic_seg_1_镜头1.mp4 - 无法解析文件名
+FAILED: ♻️5-11启赋纯净版_112_semantic_seg_3_片段3.mp4 - 无法解析文件名
+FAILED: ♻️5-11启赋纯净版_112_semantic_seg_2_片段2.mp4 - 无法解析文件名
+FAILED: ♻️高能-纯净_50_semantic_seg_2_镜头2.mp4 - 无法解析文件名
+FAILED: ♻️水奶纯净版_64_semantic_seg_2_镜头2.mp4 - 无法解析文件名
+FAILED: ♻️启赋奶粉纯净版_58_semantic_seg_2_镜头2.mp4 - 无法解析文件名
+FAILED: ♻️启赋奶粉纯净版_57_semantic_seg_1_镜头1.mp4 - 无法解析文件名
+FAILED: ♻️启赋奶粉纯净版_60_semantic_seg_1_镜头1.mp4 - 无法解析文件名
+FAILED: ♻️水奶纯净版_70_semantic_seg_2_镜头2.mp4 - 无法解析文件名

@@ -1,0 +1,53 @@
+# SRT转产品介绍视频 - 环境变量配置示例
+# 将以下内容添加到你的环境变量中，或创建 .env 文件
+
+# ========== 必需配置 ==========
+# DeepSeek API密钥 (必需)
+DEEPSEEK_API_KEY=your_deepseek_api_key_here
+
+# DeepSeek API基础URL (默认)
+DEEPSEEK_BASE_URL=https://api.deepseek.com
+
+# ========== AI分析配置 ==========
+# 分析模型 (推荐使用deepseek-chat)
+DEEPSEEK_MODEL=deepseek-chat
+
+# 最大token数
+MAX_TOKENS=4000
+
+# 创意度 (0.0-1.0)
+TEMPERATURE=0.3
+
+# ========== 视频生成配置 ==========
+# 产品介绍片段最小时长 (秒)
+MIN_SEGMENT_DURATION=30
+
+# 产品介绍片段最大时长 (秒)
+MAX_SEGMENT_DURATION=120
+
+# 视频质量 (high/medium/low)
+VIDEO_QUALITY=medium
+
+# ========== 婴幼儿奶粉专业配置 ==========
+# 产品关键词 (用于识别产品介绍片段)
+PRODUCT_KEYWORDS=启赋,蕴淳,蓝钻,HMO,A2奶源,OPN,母乳低聚糖,自愈力,水奶,转奶,断奶
+
+# 品牌关键词
+BRAND_KEYWORDS=惠氏,雅培,美赞臣,诺优能,爱他美
+
+# ========== 说明 ==========
+# 1. DEEPSEEK_API_KEY 是必需的，用于调用DeepSeek AI服务
+# 2. 获取API密钥: https://platform.deepseek.com/
+# 3. 产品关键词用于AI识别产品介绍相关内容
+# 4. 视频时长设置影响生成的产品介绍片段长度
+
+# ========== 使用方法 ==========
+# 方法1: 直接设置环境变量 (推荐)
+# export DEEPSEEK_API_KEY=your_api_key
+
+# 方法2: 创建 .env 文件
+# cp config/config_example.txt .env
+# 然后编辑 .env 文件，填入真实的API密钥
+
+# 方法3: 命令行参数
+# uv run run.py --api_key your_api_key input_dir/ 
