@@ -69,6 +69,12 @@ venv.bak/
 # Config files with sensitive data
 config.txt
 *.env
+**/env_config.txt
+**/config/env_config.txt
+**/*_config.txt
+!**/config_example.txt
+!**/env_config.example.txt
+!**/*.example.txt
 
 # UV specific
 uv.lock
@@ -84,9 +90,20 @@ video_srt_env/
 
 # Google Cloud credentials and sensitive files
 *.json
+!**/package.json
+!**/package-lock.json
+!**/tsconfig.json
+!**/tsconfig.*.json
+!**/biome.jsonc
+!**/eslintrc.json
+!**/node_modules/**/*.json
 **/video-ai-*.json
 **/*-credentials.json
-**/*-service-account.json video_to_slice/cache/
+**/*-service-account.json
+**/*pool_config.json
+**/*config.json
+!**/config_example.json
+video_to_slice/cache/
 slice_to_label/cache/
 *.log
 __pycache__/
