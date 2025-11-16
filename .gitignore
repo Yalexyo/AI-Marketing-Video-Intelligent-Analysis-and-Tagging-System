@@ -76,6 +76,10 @@ config.txt
 !**/env_config.example.txt
 !**/*.example.txt
 
+# Security notice (contains sensitive information - keep local only)
+SECURITY_NOTICE.md
+**/SECURITY_NOTICE.md
+
 # UV specific
 uv.lock
 .python-version
